@@ -1,7 +1,7 @@
 ---
 category: 'testimonials'
-cover: './testimonial-1.jpg'
-title: 'Nick Carraway'
+cover: './testimonial-obama.jpg'
+title: 'Barack Obama'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Yet in this new age, such attitudes are self-defeating. The second major source of tension that we need to discuss is the situation between Israelis, Palestinians and the Arab world. At the same time, Israelis must acknowledge that just as Israel's right to exist cannot be denied, neither can Palestine's.

@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Columbia University'
-degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+university: 'University of Massachusetts, Amherst'
+degree: 'Bachelors - English, Film Studies, Journalism'
+startDate: 'Sep 2004'
+endDate: 'May 2009'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Read, dissected, and discussed literature ranging from early writings, to Irish, to industrial revolution english, to transcendentalism writings in America. Developed writing and communicative skills. I took a few journalism classes as well as film history.

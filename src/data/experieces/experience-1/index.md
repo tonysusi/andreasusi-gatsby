@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'FRIENDS of Broomfield'
+position: 'COTA\L'
+startDate: 'Dec 2018'
+endDate: 'Feb 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Dedicated to enhancing communities by creating opportunities for individuals with developmental disabilities through an innovative and person centered approach.

@@ -1,7 +1,7 @@
 ---
 category: 'testimonials'
-cover: './testimonial-3.jpg'
-title: 'Jordan Baker'
+cover: './testimonial-walterWhite.jpg'
+title: 'Walter White'
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+The game has changed. The word is out. And you... are a killer. Apparently it's all over town. Somebody crossed you, you got angry, you crushed their skull with an ATM machine. Who cares! Just as long as it's our competitors who believe it and not the police.

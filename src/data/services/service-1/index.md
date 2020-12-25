@@ -1,6 +1,8 @@
 ---
 category: 'services'
-title: 'Web Design'
-icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Pediatrics'
+icon: 'baby'
+description: 'General functioning such as crawling, walking, feeding, walking, etc.
+Functional skills for children on the autism spectrum
+Working with physical or mental disabilities'
 ---
